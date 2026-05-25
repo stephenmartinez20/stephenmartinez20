@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/stephenmartinez20/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Security Technical Implemntation Guides (STIGs)](https://github.com/stephenmartinez20/STIGs)**
 
 ## 🚨 Threat Hunting and Security Operations
